@@ -2,5 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- (https://MILKi773.github.io/
-my_project/)
+- (https://MILKi773.github.io/my_project/)
